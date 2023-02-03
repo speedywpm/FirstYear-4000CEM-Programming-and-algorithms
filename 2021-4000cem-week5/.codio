@@ -1,0 +1,8 @@
+{
+    "commands": {
+        "Node version": "node --version"
+    },
+     "preview": {
+        "Viewer": "https://{{domain3000}}/"
+      }
+}
